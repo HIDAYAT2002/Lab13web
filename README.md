@@ -1,7 +1,7 @@
 # Lab13web
 
 | NAMA  :| HIDAYAT TULLOH |
-| --- | ---  ------------------    |
+| ----- | -----  |
 | NIM   :| 312110110 |
 | KELAS :| TI.21.B1 |
 | DOSEN :| Agung Nugroho,S.Kom.,M.Kom |
@@ -13,13 +13,15 @@ per-halaman.
 Pada prinsipnya untuk membatasi tampilan record data pada query mysql menggunakan LIMIT
 dan OFFSET; |
 | --------- |
+<hr> <hr>
 
 | Merubah File index.php |
 | --- |
 
 ![gambar1](SS/ss1.png) 
 ![gambar1](SS/ss2.png) 
-<hr> <hr>\
+<hr> <hr>
+<hr> <hr>
 
 | Tampilan DI http://localhost/lab9_php_Tugas/index.php |
 | --- |
