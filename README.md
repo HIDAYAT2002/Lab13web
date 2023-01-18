@@ -19,8 +19,9 @@ dan OFFSET; |
 
 ![gambar1](SS/ss1.png) 
 ![gambar1](SS/ss2.png) 
+<hr> <hr>\
 
-| Tampilan DI http://localhost/lab9_php_Tugas/index.php <hr> |
+| Tampilan DI http://localhost/lab9_php_Tugas/index.php |
 | --- |
 
 ![gambar1](SS/ss3.png) 
