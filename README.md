@@ -17,7 +17,6 @@
 ![gambar1](SS/ss1.png) 
 ![gambar1](SS/ss2.png) 
 <hr> <hr>
-<hr> <hr>
 
 | Tampilan DI http://localhost/lab9_php_Tugas/index.php |
 | --- |
